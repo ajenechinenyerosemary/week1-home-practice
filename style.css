@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.card table {
+text-align: center;
+margin: 25px auto;
+}
+.card h1{
+    font: bold;
+}
+.imgctn {
+    width: 250px;
+    border: 2px;
+    height: 75vh;
+    margin: 30px auto;
+    background-color: #e1afd1;
+    padding: 25px auto;
+    text-align: center;
+    font-style: oblique;
+}
